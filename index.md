@@ -9,12 +9,13 @@
   I'm interested in amateur photography, hiking and gaming. I love coffee and tea!
     
   ## CSE Classes Opinion
+  To give you my ***unnecessary opinions*** on class I've taken because im running out of ideas
 
   | Class Name | Opinion |
   | ----------- | ----------- |
   | [CSE 311](https://courses.cs.washington.edu/courses/cse311/) | Good intresting class |
-  | [CSE 312](https://courses.cs.washington.edu/courses/cse312/) | Made me cry inside |
+  | [CSE 312](https://courses.cs.washington.edu/courses/cse312/) | *Made me cry inside* |
   | [CSE 331](https://courses.cs.washington.edu/courses/cse331/) | Lots of work but really good for my learning |
-  | [CSE 332](https://courses.cs.washington.edu/courses/cse332/) | Understanding DS |
+  | [CSE 332](https://courses.cs.washington.edu/courses/cse332/) | Good class |
 
   
