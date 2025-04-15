@@ -18,4 +18,10 @@
   | [CSE 331](https://courses.cs.washington.edu/courses/cse331/) | Lots of work but really good for my learning |
   | [CSE 332](https://courses.cs.washington.edu/courses/cse332/) | Good class |
 
+  ## List of my favorite coffee/teas (in order of fav -> least fav)
+  1. Cortado
+  2. Jasmine Green Tea
+  3. Cà Phê Sữa Đá
+  4. Milk tea with cream cheese foam
+  5. Matcha
   
