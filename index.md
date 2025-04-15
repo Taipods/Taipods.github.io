@@ -10,9 +10,11 @@
     
   ## CSE Classes Opinion
 
-  | Syntax | Description |
+  | Class Name | Opinion |
   | ----------- | ----------- |
-  | Header | Title |
-  | Paragraph | Text |
+  | CSE 311(https://courses.cs.washington.edu/courses/cse311/) | Good intresting class |
+  | CSE 312 | Made me cry inside |
+  | CSE 331 | Lots of work but really good for my learning |
+  | CSE 332 | Understanding DS |
 
   
